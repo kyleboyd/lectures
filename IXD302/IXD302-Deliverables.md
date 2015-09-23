@@ -6,9 +6,9 @@ This page is designed to give you a clear breakdown of the deliverables expected
 + Deliverable 1 - Narrative Web Site (60%)
 + Deliverable 2 - Prototypes (40%)
 
-The expectation is that the prototypes you  
+The expectation is that the prototypes you create for Deliverable 2, will inform your final design for Deliverable 1.
 
-__This will be an overview of the deliverables, along with a detailed breakdown of what is expected and resources to direct the students to useful content. I'll replace this copy down the line.__
+<!-- Add links to module descriptor, assessment sheets and Takahe content. -->
 
 Students are provided with an existing piece of content, which I have carefully developed to include a broad range of content types. Without the burden of having to generate content, they are encouraged to develop a single page web site, where the use of narrative and storytelling is brought to the fore. The content is sectioned, with various asides, maps and charts, allowing for considerable creative interpretation.
 
@@ -25,50 +25,70 @@ Deliverable 1 - Narrative Web Site (60%)
 
 Using your prototypes as a starting point, this is your opportunity to consider how everything fits together.
 
-Mention creativity, etc..
+We are looking for creative solutions. Consider this an opportunity to showcase your skills and create a substantial portfolio piece that you can use to secure a placement.
 
 
 
 Deliverable 2 - Prototypes (40%)
 --------------------------------
 
-We are expecting a number of prototypes, as detailed below. For each deliverable I've supplied links to content that you might find useful to enable you to deliver what is expected.
+We are expecting a number of prototypes, as detailed below. For each deliverable I've supplied links to content that you might find useful to enable you to deliver what is expected. These links will be added after we have covered them in the lectures.
 
 
+###2A: HTML Prototype (8%)
 
-###2A: HTML Prototype
+With a focus on HTML as an accessible, semantic layer – a layer that is designed (even without CSS) – demonstrate your understanding of HTML with a particular focus on HTML5’s added semantics, in particular sectioning elements.
 
 Taking the content supplied, build an HTML prototype that demonstrates your understanding of HTML as a design element. Things to consider:
 
 + Sectioning Elements
-+ ARIA Roles
-+ Accessibility
++ Tabular Data
++ A11y
+
+####URLs
+
++ [dConstruct, 2015](http://2015.dconstruct.org)
++ [If the Moon Were Only 1 Pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
++ [Design Last](http://www.smashingmagazine.com/2015/02/design-last/)
++ [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
++ [HTML5 for Web Designers](http://abookapart.com/products/html5-for-web-designers)
 
 
+###2B: Macro-Interactions (8%)
 
-###2B: Wireframes (Macro)
+Demonstrate an understanding of the effective organisation of content at the page level. Using wireframes and high-level abstracted HTML prototypes showcase your understanding of macro-level interactions and how these can enhance the narrative experience.
 
-Macro… This is a wireframe I think…
+Taking the content supplied, consider how users are moving between the main elements of the site.
 
-Starting with paper, create a storyboard that underpins your thinking. We expect to see thought given to how your final narrative web site might be implemented.
+####URLs
 
-
-
-###2C: Interaction Prototypes (Micro)
-
-Consider your readers' interactions. How are you handling transitions between states? Have you added navigation? If so, how is this handled to provide user feedback.
-
-+ Paddy's list…
-+ Donovan's CSS Animation Content
+To follow.
 
 
+###2C: Micro-Interactions,  (8%)
 
-###2D: Mapping Prototypes
+Showcase your understanding of interaction at the micro-level, considering user feedback through interactive prototypes. This might include the use of animations on :hover states and other aspects, in short anything that contributes user feedback at a micro-level.
 
-We expect to see a series of prototypes that demonstrate your understanding of how mapping APIs might be used.
+Consider your readers' interactions. Have you added navigation? If so, how is this handled to provide user feedback.
+
+####URLs
+
+To follow.
 
 
+###2D: Mapping Prototypes (8%)
 
-###2E: Charting Prototypes
+Using the mapping content provided as a starting point, demonstrate your ability to create interactive maps that enhance the user experience.This might include an exploration of, amongst others, Google Maps API, OpenStreetMap, Leaflet JS, and Stamen.
 
-We expect to see a series of prototypes that demonstrate your understanding of how charting APIs might be used.
+####URLs
+
+To follow.
+
+
+###2E: Charting Prototypes (8%)
+
+Using the tabular content provided as a starting point demonstrate your ability to create data visualisations that amplify the data provided, enhancing the user experience.
+
+####URLs
+
+To follow.
