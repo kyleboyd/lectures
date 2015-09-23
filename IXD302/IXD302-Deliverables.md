@@ -1,6 +1,13 @@
 IXD302/DES310: Deliverables
 ===========================
 
+This page is designed to give you a clear breakdown of the deliverables expected for the module. There are two deliverables:
+
++ Deliverable 1 - Narrative Web Site (60%)
++ Deliverable 2 - Prototypes (40%)
+
+The expectation is that the prototypes you  
+
 __This will be an overview of the deliverables, along with a detailed breakdown of what is expected and resources to direct the students to useful content. I'll replace this copy down the line.__
 
 Students are provided with an existing piece of content, which I have carefully developed to include a broad range of content types. Without the burden of having to generate content, they are encouraged to develop a single page web site, where the use of narrative and storytelling is brought to the fore. The content is sectioned, with various asides, maps and charts, allowing for considerable creative interpretation.
@@ -39,13 +46,15 @@ Taking the content supplied, build an HTML prototype that demonstrates your unde
 
 
 
-###2B: Storyboard
+###2B: Wireframes (Macro)
+
+Macro… This is a wireframe I think…
 
 Starting with paper, create a storyboard that underpins your thinking. We expect to see thought given to how your final narrative web site might be implemented.
 
 
 
-###2C: Interaction Prototypes
+###2C: Interaction Prototypes (Micro)
 
 Consider your readers' interactions. How are you handling transitions between states? Have you added navigation? If so, how is this handled to provide user feedback.
 
