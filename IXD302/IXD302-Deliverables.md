@@ -8,9 +8,9 @@ This page is designed to give you a clear breakdown of the deliverables expected
 
 The expectation is that the prototypes you create for Deliverable 2, will inform your final design for Deliverable 1.
 
-<!-- Add links to module descriptor, assessment sheets and Takahe content. -->
-
 Students are provided with an existing piece of content, which I have carefully developed to include a broad range of content types. Without the burden of having to generate content, they are encouraged to develop a single page web site, where the use of narrative and storytelling is brought to the fore. The content is sectioned, with various asides, maps and charts, allowing for considerable creative interpretation.
+
+[Download the content supplied, here.](#)
 
 Questions? Ping me on Twitter, or pop me an email.
 
@@ -23,7 +23,7 @@ Questions? Ping me on Twitter, or pop me an email.
 Deliverable 1 - Narrative Web Site (60%)
 ----------------------------------------
 
-Using your prototypes as a starting point, this is your opportunity to consider how everything fits together.
+Using your prototypes as a starting point, this is your opportunity to consider how everything fits together as a piece of narrative design.
 
 We are looking for creative solutions. Consider this an opportunity to showcase your skills and create a substantial portfolio piece that you can use to secure a placement.
 
@@ -32,7 +32,7 @@ We are looking for creative solutions. Consider this an opportunity to showcase 
 Deliverable 2 - Prototypes (40%)
 --------------------------------
 
-We are expecting a number of prototypes, as detailed below. For each deliverable I've supplied links to content that you might find useful to enable you to deliver what is expected. These links will be added after we have covered them in the lectures.
+We are expecting a number of prototypes, as detailed below. For each deliverable I’ve supplied links to content that you might find useful to enable you to deliver what is expected. These links will be added after we have covered them in the lectures.
 
 
 ###2A: HTML Prototype (8%)
@@ -62,18 +62,18 @@ Taking the content supplied, consider how users are moving between the main elem
 
 ####URLs
 
-To follow.
+To follow, after the appropriate lecture.
 
 
 ###2C: Micro-Interactions,  (8%)
 
 Showcase your understanding of interaction at the micro-level, considering user feedback through interactive prototypes. This might include the use of animations on :hover states and other aspects, in short anything that contributes user feedback at a micro-level.
 
-Consider your readers' interactions. Have you added navigation? If so, how is this handled to provide user feedback.
+Consider your readers’ interactions. Have you added navigation? If so, how is this handled to provide user feedback.
 
 ####URLs
 
-To follow.
+To follow, after the appropriate lecture.
 
 
 ###2D: Mapping Prototypes (8%)
@@ -82,7 +82,7 @@ Using the mapping content provided as a starting point, demonstrate your ability
 
 ####URLs
 
-To follow.
+To follow, after the appropriate lecture.
 
 
 ###2E: Charting Prototypes (8%)
@@ -91,4 +91,4 @@ Using the tabular content provided as a starting point demonstrate your ability 
 
 ####URLs
 
-To follow.
+To follow, after the appropriate lecture.
