@@ -10,7 +10,7 @@ The expectation is that the prototypes you create for Deliverable 2, will inform
 
 Students are provided with an existing piece of content, which I have carefully developed to include a broad range of content types. Without the burden of having to generate content, they are encouraged to develop a single page web site, where the use of narrative and storytelling is brought to the fore. The content is sectioned, with various asides, maps and charts, allowing for considerable creative interpretation.
 
-[Download the content supplied, here.](#)
+[Download the content supplied, here.](https://github.com/fehler/lectures/blob/master/IXD302/finding-an-extinct-new-zealand-bird.zip)
 
 Questions? Ping me on Twitter, or pop me an email.
 
