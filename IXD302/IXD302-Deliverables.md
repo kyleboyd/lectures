@@ -35,7 +35,7 @@ Deliverable 2 - Prototypes (40%)
 We are expecting a number of prototypes, as detailed below. For each deliverable I’ve supplied links to content that you might find useful to enable you to deliver what is expected. These links will be added after we have covered them in the lectures.
 
 
-###2A: HTML Prototype (8%)
+###2A: HTML Prototype (⅕)
 
 With a focus on HTML as an accessible, semantic layer – a layer that is designed (even without CSS) – demonstrate your understanding of HTML with a particular focus on HTML5’s added semantics, in particular sectioning elements.
 
@@ -54,9 +54,11 @@ Taking the content supplied, build an HTML prototype that demonstrates your unde
 + [HTML5 for Web Designers](http://abookapart.com/products/html5-for-web-designers)
 
 
-###2B: Macro-Interactions (8%)
+###2B: Macro-Interactions (⅕)
 
-Demonstrate an understanding of the effective organisation of content at the page level. Using wireframes and high-level abstracted HTML prototypes showcase your understanding of macro-level interactions and how these can enhance the narrative experience.
+Demonstrate an understanding of the effective organisation of content at the page level. Beginning with a Style Tile or an Element Collage, consider the visual grammar of your page, establishing a look and feel you consider appropriate.
+
+Using wireframes and high-level abstracted HTML prototypes showcase your understanding of macro-level interactions and how these can enhance the narrative experience.
 
 Taking the content supplied, consider how users are moving between the main elements of the site.
 
@@ -65,7 +67,7 @@ Taking the content supplied, consider how users are moving between the main elem
 To follow, after the appropriate lecture.
 
 
-###2C: Micro-Interactions,  (8%)
+###2C: Micro-Interactions,  (⅕)
 
 Showcase your understanding of interaction at the micro-level, considering user feedback through interactive prototypes. This might include the use of animations on :hover states and other aspects, in short anything that contributes user feedback at a micro-level.
 
@@ -76,7 +78,7 @@ Consider your readers’ interactions. Have you added navigation? If so, how is 
 To follow, after the appropriate lecture.
 
 
-###2D: Mapping Prototypes (8%)
+###2D: Mapping Prototypes (⅕)
 
 Using the mapping content provided as a starting point, demonstrate your ability to create interactive maps that enhance the user experience.This might include an exploration of, amongst others, Google Maps API, OpenStreetMap, Leaflet JS, and Stamen.
 
@@ -85,7 +87,7 @@ Using the mapping content provided as a starting point, demonstrate your ability
 To follow, after the appropriate lecture.
 
 
-###2E: Charting Prototypes (8%)
+###2E: Charting Prototypes (⅕)
 
 Using the tabular content provided as a starting point demonstrate your ability to create data visualisations that amplify the data provided, enhancing the user experience.
 
