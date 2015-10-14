@@ -58,13 +58,23 @@ Taking the content supplied, build an HTML prototype that demonstrates your unde
 
 Demonstrate an understanding of the effective organisation of content at the page level. Beginning with a Style Tile or an Element Collage, consider the visual grammar of your page, establishing a look and feel you consider appropriate.
 
-Using wireframes and high-level abstracted HTML prototypes showcase your understanding of macro-level interactions and how these can enhance the narrative experience.
+Using your Style Tile or Element Collage as a starting point, create wireframes and high-level abstracted HTML prototypes to showcase your understanding of macro-level interactions and how these can enhance the narrative experience.
 
-Taking the content supplied, consider how users are moving between the main elements of the site.
+Taking the content supplied, consider how users are moving between the main sections of the site. Things to consider:
+
++ Style Tiles
++ Element Collages
++ High-Level HTML, CSS and JS Prototypes
 
 ####URLs
 
-To follow, after the appropriate lecture.
++ [Style Tiles](http://styletil.es)
++ [Element Collages](http://danielmall.com/articles/rif-element-collages/)
++ [Kick My Habits](http://www.leedsbuildingsociety.co.uk/resources/kick-my-habits/)
++ [Font Walk](http://www.fontwalk.de/03/)
++ [Flat Guitars](http://www.flatguitars.com)
++ [Glitter in the Dark](http://pitchfork.com/features/cover-story/reader/bat-for-lashes/)
++ [Big Apple Hot Dogs](http://www.bigapplehotdogs.com)
 
 
 ###2C: Micro-Interactions,  (⅕)
