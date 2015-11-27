@@ -85,7 +85,11 @@ Consider your readers’ interactions. Have you added navigation? If so, how is 
 
 ####URLs
 
-To follow, after the appropriate lecture.
++ [Collection of Button Hover Effects](http://codepen.io/davidicus/pen/emgQKJ)
++ [Hover.css](http://ianlunn.github.io/Hover/)
++ [Hover.css Tutorial](http://ianlunn.co.uk/articles/hover-css-tutorial-introduction/)
++ [Creative Link Effects](http://tympanus.net/Development/CreativeLinkEffects/)
++ [Subtle Click Feedback Effects](http://tympanus.net/Development/ClickEffects/)
 
 
 ###2D: Mapping Prototypes (⅕)
@@ -94,7 +98,10 @@ Using the mapping content provided as a starting point, demonstrate your ability
 
 ####URLs
 
-To follow, after the appropriate lecture.
++ [Adding a Google Map](https://developers.google.com/maps/tutorials/fundamentals/adding-a-google-map)
++ [OpenStreetMap](http://www.openstreetmap.org/)
++ [Leaflet.js](http://leafletjs.com)
++ [Stamen Tiles](http://maps.stamen.com/)
 
 
 ###2E: Charting Prototypes (⅕)
