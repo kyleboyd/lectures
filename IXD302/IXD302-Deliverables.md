@@ -110,4 +110,8 @@ Using the tabular content provided as a starting point demonstrate your ability 
 
 ####URLs
 
-To follow, after the appropriate lecture.
++ [Pure.css](http://purecss.io/tables/)
++ [Tablesaw](https://github.com/filamentgroup/tablesaw)
++ [Google Charts](https://developers.google.com/chart/?hl=en)
++ [Chart.js](http://www.chartjs.org)
++ [D3.js](http://d3js.org)
