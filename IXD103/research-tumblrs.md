@@ -18,7 +18,6 @@ Research Tumblrs for IXD103 and IXD104.
 + [Oisin McKeever](http://oisin-mckeever.tumblr.com)
 + [Stuart McMaw](http://stuartmcmaw.tumblr.com)
 + [Laura Mitchell](http://thelauramitchell.tumblr.com)
-<!-- + [Sarah Owens](#) * -->
 + [William Park](http://williamipark.tumblr.com)
 + [Nathan Patton](http://nathan-patton.tumblr.com)
 + [Damon Rogers](http://rodgersdamon.tumblr.com)
@@ -28,3 +27,10 @@ Research Tumblrs for IXD103 and IXD104.
 + [Leah Smyth](http://leahpsmyth.tumblr.com)
 
 \* Missing
+
+
+<!--
+
++ [Sarah Owens](#)
+
+-->
