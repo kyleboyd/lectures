@@ -1,5 +1,8 @@
-IXD Year 1 Tumblrs
-==================
+Year 1 Research Tumblrs
+=======================
+
+IxD
+---
 
 Research Tumblrs for IXD103 and IXD104.
 
@@ -26,11 +29,12 @@ Research Tumblrs for IXD103 and IXD104.
 + [Mark Sleator](http://marksleatorblog.tumblr.com)
 + [Leah Smyth](http://leahpsmyth.tumblr.com)
 
-\* Missing
 
+IMD
+---
 
-<!--
+Research Tumblrs for IXD104.
 
-+ [Sarah Owens](#)
-
--->
++ [Kat Doyle](https://katdoyle.tumblr.com)
++ [Seánagh Wallace](http://seanaghsblog.tumblr.com)
++ [Gemma McAlonan](http://gemmamcalonan.tumblr.com)
